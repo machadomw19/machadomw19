@@ -1,5 +1,8 @@
-# Perfil de Maria Machado, estudiante de Desarrollo Full Stack
+# Perfil de Maria Andreina Machado, 
+## Estudiante de Desarrollo Full Stack
 
-Hola que tal este es un ejemplo de fichero Readme para personalizar mi perfil de Github
+- 🎓 Licenciada en Gerencia de Recursos Humanos
+* 👨🏻‍💻 Estudiante de Desarrollo FullStack en la Academia ConquerBlocks
++ 👨🏻‍🏫 Aprendiendo HTML en estos momentos.
 
 -->
