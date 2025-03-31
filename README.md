@@ -3,6 +3,7 @@
 
 - 🎓 Licenciada en Gerencia de Recursos Humanos
 * 👨🏻‍💻 Estudiante de Desarrollo FullStack en la Academia ConquerBlocks
-+ 👨🏻‍🏫 Aprendiendo HTML en estos momentos.
++ 👨🏻‍🏫 HTML Completado
++ 👨🏻‍🏫 Aprendiendo CSS ahora...
 
 -->
